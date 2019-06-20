@@ -165,19 +165,12 @@
   background-color: white;
 }
 
-.footer-auto button {
+.footer-auto a button {
   width: 45%;
   height: 67px;
 }
-.footer-auto a {
-  width: 45%;
-  padding-top: 24px;
-  text-align: center;
-  text-decoration: none;
-}
 
 .span1 {
-  
   border: 2px solid #5fc0cd;
   border-radius: 10px;
   color: #5fc0cd;
