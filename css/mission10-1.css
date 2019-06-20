@@ -85,6 +85,7 @@
   position: absolute;
   line-height: 2;
   width: 100%;
+  margin-top: 14px;
   display: none;
   list-style-type: none;
   overflow: hidden;
